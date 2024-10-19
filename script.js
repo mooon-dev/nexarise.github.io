@@ -56,3 +56,6 @@ window.addEventListener("scroll", function () {
     backTopBtn.classList.remove("active");
   }
 });
+
+
+// this is the comment to see if git add . works or not
